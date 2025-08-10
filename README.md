@@ -1,6 +1,5 @@
 # 🌟 Ronit Sharma — Personal Portfolio Website
 
-![Portfolio Banner](Ronit.jpg)
 
 ## 📌 Overview
 
@@ -32,6 +31,5 @@ The portfolio is fully responsive, easy to navigate, and built with clean, moder
 - Responsive Layout & Modern UI  
 
  
-
 
 
